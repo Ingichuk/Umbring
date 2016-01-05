@@ -10,3 +10,7 @@
 이제는 그 날들을 함께 지켜드리겠습니다.
 
 당신의 하루가 축축하지 않도록, **[Umbring](http://ingichuk.github.io/Umbring/)**
+
+---
+
+Powered by **[HTML5 UP](http://html5up.net/) | @n33co**
